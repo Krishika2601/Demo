@@ -1,2 +1,3 @@
 module demoJava {
+	exports demoJava;
 }
